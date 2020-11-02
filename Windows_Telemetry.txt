@@ -20,3 +20,4 @@ eaus2watcab01.blob.core.windows.net
 eaus2watcab02.blob.core.windows.net
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
+www.dfb.de
