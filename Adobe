@@ -7,6 +7,7 @@
 0.0.0.0 accounts.adobe.com
 0.0.0.0 acp-ss-ue1.adobe.io
 0.0.0.0 acp-ss.adobe.io
+0.0.0.0 acrobat.adobe.com
 0.0.0.0 acrobat.com
 0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net
 0.0.0.0 adminconsole.adobe.com
@@ -18,6 +19,7 @@
 0.0.0.0 adobeexchange.com
 0.0.0.0 adobeexchange.comapi
 0.0.0.0 adobeid-na1.services.adobe.com
+0.0.0.0 adobeio.map.fastly.net
 0.0.0.0 adobelogin.prod.ims.adobejanus.com
 0.0.0.0 adobetag.com
 0.0.0.0 agsupdate.adobe.com
@@ -69,6 +71,7 @@
 0.0.0.0 client.messaging.adobe.com
 0.0.0.0 color.adobe.com
 0.0.0.0 comments.adobe.io
+0.0.0.0 console.adobe.io
 0.0.0.0 creative.adobe.com
 0.0.0.0 cs.licenses.adobe.com
 0.0.0.0 ct.pinterest.com
@@ -83,6 +86,8 @@
 0.0.0.0 e7933.dscd.akamaiedge.net
 0.0.0.0 echosign.adobe.com
 0.0.0.0 exception.licenses.adobe.com
+0.0.0.0 experienceleaguecommunities.adobe.com
+0.0.0.0 fast.adobe.demdex.net
 0.0.0.0 federatedid-na1.services.adobe.com
 0.0.0.0 ffc-icons.oobesaas.adobe.com
 0.0.0.0 fls.doubleclick.net
@@ -105,6 +110,7 @@
 0.0.0.0 licensing.adobe.com
 0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 match.prod.bidr.io
+0.0.0.0 max.adobe.com
 0.0.0.0 mir-s3-cdn-cf.behance.net
 0.0.0.0 myportfolio.com
 0.0.0.0 na1e-acc.services.adobe.com
@@ -135,6 +141,7 @@
 0.0.0.0 ss-prod-ue1-notif-32.aws.adobess.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 state.typekit.net
+0.0.0.0 static.adobelogin.com
 0.0.0.0 stock.adobe.com
 0.0.0.0 stock.adobe.io
 0.0.0.0 store.adobe.com
@@ -152,14 +159,11 @@
 0.0.0.0 workflow.licenses.adobe.com
 0.0.0.0 www-prod.adobesunbreak.com
 0.0.0.0 www.adobe.com
+0.0.0.0 www.adobe.io
 0.0.0.0 www.everestjs.net
 0.0.0.0 www.facebook.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 wwwimages.adobe.com
 0.0.0.0 wwwimages2.adobe.com
-0.0.0.0 acrobat.adobe.com
-0.0.0.0 experienceleaguecommunities.adobe.com
-0.0.0.0 fast.adobe.demdex.net
-0.0.0.0 static.adobelogin.com
 0.0.0.0 xd.adobelanding.com
