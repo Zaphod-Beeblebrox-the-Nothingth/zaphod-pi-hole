@@ -379,6 +379,7 @@
 0.0.0.0 ce.video-ak.cdn.spotify.com
 0.0.0.0 cf.audio-ak.cdn.spotify.com
 0.0.0.0 cf.video-ak.cdn.spotify.com
+0.0.0.0 country-flags.scdn.co
 0.0.0.0 crashdump.ciqe-gslb.spotify.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 d0.audio-ak.cdn.spotify.com
@@ -442,6 +443,7 @@
 0.0.0.0 ec.video-ak.cdn.spotify.com
 0.0.0.0 ed.audio-ak.cdn.spotify.com
 0.0.0.0 ed.video-ak.cdn.spotify.com
+0.0.0.0 edge-web-split-geo.dual-gslb.spotify.com
 0.0.0.0 ee.audio-ak.cdn.spotify.com
 0.0.0.0 ee.video-ak.cdn.spotify.com
 0.0.0.0 ef.audio-ak.cdn.spotify.com
@@ -498,10 +500,14 @@
 0.0.0.0 quicksilver.scdn.co
 0.0.0.0 r.scdn.co
 0.0.0.0 sap-testing.spotify.com
+0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 search.spotxchange.com
 0.0.0.0 seektables.scdn.co
 0.0.0.0 sp-bootstrap.global.ssl.fastly.net
+0.0.0.0 sp-bootstrap.spotifycdn.com
 0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 spotfiy.com
+0.0.0.0 spotifycdn.map.fastly.net
 0.0.0.0 spritemaps.scdn.co
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 t.scdn.co
@@ -512,4 +518,6 @@
 0.0.0.0 video-fa.scdn.co
 0.0.0.0 weblb-wg.dual-gslb.spotify.com
 0.0.0.0 weblb-wg.gslb.spotify.com
+0.0.0.0 www.scdn.co
 0.0.0.0 www.spotify-desktop.com
+0.0.0.0 www.spotify.com
