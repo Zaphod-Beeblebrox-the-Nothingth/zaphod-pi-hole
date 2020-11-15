@@ -26,11 +26,9 @@
 0.0.0.0 admeld.com
 0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
-0.0.0.0 ads.ak.facebook.com.edgesuite.net
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.eu.msn.com
 0.0.0.0 ads.exdynsrv.com
-0.0.0.0 ads.facebook.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.msn.com
 0.0.0.0 ads.scorecardresearch.comads.youtube.com
@@ -627,16 +625,8 @@
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 everydaymagic-windowsservices-tas.msedge.net
 0.0.0.0 evoke-windowsservices-tas.msedge.net
-0.0.0.0 external-frt3-1.xx.fbcdn.net
-0.0.0.0 external-frt3-2.xx.fbcdn.net
-0.0.0.0 external-veil-1.xx.fbcdn.net
 0.0.0.0 f24aea1ef289112ec08c775a9cce3bd4.clo.footprintdns.com
 0.0.0.0 fb4f06b65a8ebaffd9f1645a2732f71e.clo.footprintdns.com
-0.0.0.0 fbcdn-creative-a.akamaihd.net
-0.0.0.0 fbcdn-static-b-a.akamaihd.net
-0.0.0.0 fbcdn.net
-0.0.0.0 fbexternal-a.akamaihd.net
-0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fe2.update.microsoft.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -667,7 +657,6 @@
 0.0.0.0 github.map.fastly.net
 0.0.0.0 global.msads.net
 0.0.0.0 go.microsoft.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.microsoft.com
 0.0.0.0 h1.msn.com
 0.0.0.0 h2.msn.com
@@ -792,7 +781,6 @@
 0.0.0.0 kv601.prod.do.dsp.mp.microsoft.com
 0.0.0.0 kv801.prod.do.dsp.mp.microsoft.com
 0.0.0.0 l-ring.msedge.net
-0.0.0.0 l.facebook.com
 0.0.0.0 lb1.www.ms.akadns.net
 0.0.0.0 legacy-redirection-neurope-prod-hp.cloudapp.net
 0.0.0.0 licensing.md.mp.microsoft.com
@@ -881,8 +869,6 @@
 0.0.0.0 peer3-vie.msedge.net
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 pixel.advertising.com
-0.0.0.0 pixel.facebook.com
-0.0.0.0 platform-lookaside.fbsbx.com
 0.0.0.0 pnrpv2.ipv6.microsoft.com
 0.0.0.0 pnrpv21.ipv6.microsoft.com
 0.0.0.0 popup.msn.com
@@ -1012,8 +998,6 @@
 0.0.0.0 static.2mdn.net
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.doubleclick.net
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 staticxx.facebook.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 statsfe1.ws.microsoft.com
