@@ -15,3 +15,10 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.de
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.google.com
+0.0.0.0 www.googletagmanager.com
+0.0.0.0 www.googletagservices.com
+0.0.0.0 tracking.bodis.com
