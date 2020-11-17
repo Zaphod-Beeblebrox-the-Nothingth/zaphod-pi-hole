@@ -1,3 +1,4 @@
+0.0.0.0 adnexus.net
 0.0.0.0 adnxs.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 asadcdn.com
@@ -46,6 +47,7 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 online-beilage.idowa.de
 0.0.0.0 quiz.idowa.de
 0.0.0.0 stau.idowa.de
+0.0.0.0 e.nexac.com
 0.0.0.0 guce.oath.com
 0.0.0.0 cdn.stripst.com
 0.0.0.0 skinstrip.net
@@ -73,7 +75,6 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 ag.innovid.com
 0.0.0.0 ams1-ib.adnxs.com
-0.0.0.0 assets.adobedtm.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cdn.adnxs.com
@@ -86,7 +87,6 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 de.ioam.de
 0.0.0.0 dmp.theadex.com
-0.0.0.0 dpm.demdex.net
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dx6ctphzljkf1.cloudfront.net
@@ -96,7 +96,6 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fw.adsafeprotected.com
-0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 holidayoffer.adigi.ai
 0.0.0.0 ib.adnxs.com
 0.0.0.0 id.rlcdn.com
@@ -111,12 +110,10 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 media.plista.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 p.yieldlab.net
-0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pp.lp4.io
 0.0.0.0 s1.adform.net
 0.0.0.0 secure.adnxs.com
-0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 ssl-sz.met.vgwort.de
 0.0.0.0 static-de.ad4mat.net
@@ -133,7 +130,9 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 uss.xplosion.de
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.awin1.com
+0.0.0.0 www.m.adnxs.com
 0.0.0.0 www.summerhamster.com
+0.0.0.0 xd.adnz.co
 0.0.0.0 xpl.theadex.com
 0.0.0.0 z.moatads.com
 0.0.0.0 widget.msgp.pl
@@ -191,4 +190,3 @@ cdn-692.privacy-mgmt.com
 0.0.0.0 www.gikken.co
 0.0.0.0 www.gismeteo.ru
 0.0.0.0 www.paypalobjects.com
-0.0.0.0 xd.adnz.co
