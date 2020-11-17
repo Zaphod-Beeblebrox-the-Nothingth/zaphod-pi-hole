@@ -590,14 +590,6 @@
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dns.msftncsi.com
 0.0.0.0 download-ssl.msgamestudios.com
-0.0.0.0 e2835.dspb.akamaiedge.net
-0.0.0.0 e3843.g.akamaiedge.net
-0.0.0.0 e7341.g.akamaiedge.net
-0.0.0.0 e7502.ce.akamaiedge.net
-0.0.0.0 e8218.ce.akamaiedge.net
-0.0.0.0 e87.dspb.akamaidege.net
-0.0.0.0 e9483.a.akamaiedge.net
-0.0.0.0 e9946.g.akamaiedge.net
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
 0.0.0.0 ec.atdmt.com
