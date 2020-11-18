@@ -1,7 +1,4 @@
-0.0.0.0 adservice.google.com
-0.0.0.0 adservice.google.de
 0.0.0.0 afs.googlesyndication.com
-0.0.0.0 analytics.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 device-provisioning.googleapis.com
@@ -40,3 +37,4 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 tpc.googlesyndication.com
