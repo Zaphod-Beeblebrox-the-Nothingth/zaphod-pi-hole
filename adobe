@@ -187,7 +187,6 @@
 0.0.0.0 resources.licenses.adobe.com
 0.0.0.0 s-2.adobe.com
 0.0.0.0 s-3.adobe.com
-0.0.0.0 s3.amazonaws.com
 0.0.0.0 scproxy-prod.adobecc.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scss.adobesc.com
