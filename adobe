@@ -27,7 +27,6 @@
 0.0.0.0 activate.wip3.adobe.com
 0.0.0.0 activate.wip3.adobe.de
 0.0.0.0 activate.wip4.adobe.com
-0.0.0.0 adbemdigitalmediarebootprod2.112.2o7.net
 0.0.0.0 adminconsole.adobe.com
 0.0.0.0 adobe-dns-1.adobe.com
 0.0.0.0 adobe-dns-2.adobe.com
@@ -39,10 +38,8 @@
 0.0.0.0 adobe-dns.adobe.de
 0.0.0.0 adobe.activate.com
 0.0.0.0 adobe.com
-0.0.0.0 adobe.demdex.net
 0.0.0.0 adobe.io
 0.0.0.0 adobe.ly
-0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adobeereg.com
 0.0.0.0 adobeexchange.com
 0.0.0.0 adobeexchange.comapi
@@ -51,7 +48,6 @@
 0.0.0.0 adobelogin.prod.ims.adobejanus.com
 0.0.0.0 adobetag.com
 0.0.0.0 agsupdate.adobe.com
-0.0.0.0 amazonaws.com
 0.0.0.0 ams.adobe.com
 0.0.0.0 ans.oobesas.adobe.com
 0.0.0.0 api-cna01.adobe-services.com
@@ -94,7 +90,6 @@
 0.0.0.0 ccmdl.adobe.com
 0.0.0.0 ccmdls.adobe.com
 0.0.0.0 cdn.inpwrd.net
-0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 client.messaging.adobe.com
 0.0.0.0 cmdls.adobe.com
 0.0.0.0 color.adobe.com
@@ -111,7 +106,6 @@
 0.0.0.0 digitalpublishing.acrobat.com
 0.0.0.0 dnzuu5synxxfk.cloudfront.net
 0.0.0.0 docs.aws.amazon.comgenerallatestgr
-0.0.0.0 dpm.demdex.net
 0.0.0.0 e4578.dscg.akamaiedge.net
 0.0.0.0 e7933.dscd.akamaiedge.net
 0.0.0.0 echosign.adobe.com
@@ -122,10 +116,8 @@
 0.0.0.0 ereg.wip2.adobe.com
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 ereg.wip4.adobe.com
-0.0.0.0 everestjs.net
 0.0.0.0 exception.licenses.adobe.com
 0.0.0.0 experienceleaguecommunities.adobe.com
-0.0.0.0 fast.adobe.demdex.net
 0.0.0.0 federatedid-na1.services.adobe.com
 0.0.0.0 ffc-icons.oobesaas.adobe.com
 0.0.0.0 fls.doubleclick.net
@@ -163,8 +155,6 @@
 0.0.0.0 na4r.services.adobe.com
 0.0.0.0 notify.adobe.io
 0.0.0.0 ocsp.globalsign.comrootr1
-0.0.0.0 ocsp.spo1.verisign.com
-0.0.0.0 ocsp.verisign.com
 0.0.0.0 oobe.adobe.com
 0.0.0.0 ood.opsource.net
 0.0.0.0 p.typekit.net
@@ -208,7 +198,6 @@
 0.0.0.0 supportanyware.adobe.io
 0.0.0.0 swupdl.adobe.com
 0.0.0.0 swupmf.adobe.com
-0.0.0.0 tss-geotrust-crl.thawte.com
 0.0.0.0 typekit.com
 0.0.0.0 uds.licenses.adobe.com
 0.0.0.0 use.edgefonts.net
