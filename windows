@@ -1,4 +1,3 @@
-0.0.0.0 112.2o7.net
 0.0.0.0 315a641cf1db62bed0a344c5b05b2292.clo.footprintdns.com
 0.0.0.0 4d4a22d4d2d167314abccf8082f0ef35.clo.footprintdns.com
 0.0.0.0 6to4.ipv6.microsoft.com
@@ -15,12 +14,8 @@
 0.0.0.0 aa.agkn.com
 0.0.0.0 aa5ca9ad60d84d6d2f64c41b26e503d9.clo.footprintdns.com
 0.0.0.0 ab59a6538d2abdcbd183e7feb407ba46.nrb.footprintdns.com
-0.0.0.0 ac3.msn.com
-0.0.0.0 acdn.adnxs.com
 0.0.0.0 activity.windows.com
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad40d51ce44cd50387b82faade325052.clo.footprintdns.com
-0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adfb1fb578a00c84b719d00af558ea1b.clo.footprintdns.com
 0.0.0.0 adl.windows.com
 0.0.0.0 admeld.com
@@ -39,11 +34,7 @@
 0.0.0.0 ajax.microsoft.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 alpha.telemetry.microsoft.com
-0.0.0.0 analytics.live.com
 0.0.0.0 analytics.microsoft.com
-0.0.0.0 analytics.msn.com
-0.0.0.0 analytics.twitter.com
-0.0.0.0 analytics.yahoo.com
 0.0.0.0 any.edge.bing.com
 0.0.0.0 apac1.notify.windows.com.akadns.net
 0.0.0.0 api-s2s-emea.taboola.com
@@ -323,8 +314,6 @@
 0.0.0.0 cxcs.microsoft.necxcs.microsoft.net
 0.0.0.0 cy2.settings.data.microsoft.com.akadns.net
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
-0.0.0.0 d.agkn.com
-0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 db3wns2011111.wns.windows.com
 0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
@@ -841,7 +830,6 @@
 0.0.0.0 p5-wknln4jd5q3qm-ik4z2y35yknm3pf6-576092-i2-v6exp3.v4.metric.gstatic.com
 0.0.0.0 p5-wyy773liffdba-dgrv56uw7xwp7h7r-514802-i2-v6exp3.v4.metric.gstatic.com
 0.0.0.0 p5-z6ncvqrb65bss-ypxh225pzjntuicv-200594-i1-v6exp3.ds.metric.gstatic.com
-0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partner.support.services.microsoft.com
 0.0.0.0 peer1-vie.msedge.net
 0.0.0.0 peer2-vie.msedge.net
@@ -856,7 +844,6 @@
 0.0.0.0 preview.msn.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 pti.store.microsoft.com
-0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 public-family.api.account.microsoft.com
 0.0.0.0 query.prod.cms.rt.microsoft.com
 0.0.0.0 rad.live.com
@@ -1106,7 +1093,6 @@
 0.0.0.0 www.a.ads2.msads.net
 0.0.0.0 www.a.ads2.msn.com
 0.0.0.0 www.a.rad.msn.com
-0.0.0.0 www.ac3.msn.com
 0.0.0.0 www.ads.msn.com
 0.0.0.0 www.ads1.msads.net
 0.0.0.0 www.ads1.msn.com
