@@ -6,6 +6,7 @@
 0.0.0.0 firebasedynamiclinks-ipv4.googleapis.com
 0.0.0.0 firebasedynamiclinks-ipv6.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseio
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 firefoxusercontent.com
@@ -28,13 +29,10 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 play.googleapis.com
 0.0.0.0 safebrowsing.googleapis.com
-0.0.0.0 ssl.google-analytics.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tpcnc.googlesyndication.com
 0.0.0.0 tracking.bodis.com
 0.0.0.0 video-ad-stats.googlesyndication.com
-0.0.0.0 video-stats.video.google.com
-0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.googletagservices.com
