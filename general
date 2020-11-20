@@ -10,6 +10,7 @@
 0.0.0.0 api.cherehapa.ru
 0.0.0.0 api.service.prd.rewe-big-data.com
 0.0.0.0 asia.gikken.co
+0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 bitpoll.zeit.de
 0.0.0.0 blumen.rewe.de
 0.0.0.0 casper.p7s1.net
@@ -23,6 +24,8 @@
 0.0.0.0 counts.yieldlab.net
 0.0.0.0 crackberry.com
 0.0.0.0 cs4.wettercomassets.com
+0.0.0.0 css.yachtguru.de
+0.0.0.0 css.yachtguru.pl
 0.0.0.0 culturaltracking.ru
 0.0.0.0 d.df-srv.de
 0.0.0.0 datacollection.upstream-mobility.at
@@ -31,6 +34,7 @@
 0.0.0.0 donation-encourager.netlify.app
 0.0.0.0 donation-encourager.netlify.com
 0.0.0.0 e.nexac.com
+0.0.0.0 edge-web-split-geo.dual-gslb.spotify.com
 0.0.0.0 epaper.az-muenchen.de
 0.0.0.0 fhm.degearwom.de
 0.0.0.0 foto.rewe.de
@@ -58,11 +62,14 @@
 0.0.0.0 qs.ioam.de
 0.0.0.0 quiz.idowa.de
 0.0.0.0 quiz.zeit.de
+0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 secure.secigo.com
 0.0.0.0 seomon.com
 0.0.0.0 shop.az-muenchen.de
 0.0.0.0 skinstrip.net
 0.0.0.0 sni.cdn.prod.www.spiegel.de.c.footprint.net
+0.0.0.0 sp-bootstrap.spotifycdn.com
+0.0.0.0 spotifycdn.map.fastly.net
 0.0.0.0 ssl-sz.met.vgwort.de
 0.0.0.0 static-de.ad4mat.net
 0.0.0.0 static.ad4mat.net
@@ -73,6 +80,7 @@
 0.0.0.0 togo.rewe.de
 0.0.0.0 tracking.bmbfcluster.de
 0.0.0.0 varnish.autobild.de.dns.boreus.de
+0.0.0.0 virustotal.com
 0.0.0.0 whoami-web.prod.ps.axelspringer.de
 0.0.0.0 whoami-web.prod.ps.welt.de
 0.0.0.0 widget.msgp.pl
@@ -83,11 +91,18 @@
 0.0.0.0 www.koelner-weinkeller.de
 0.0.0.0 www.m.adnxs.com
 0.0.0.0 www.mrporngeek.com
+0.0.0.0 www.oecherdeal.de
 0.0.0.0 www.rewe-lieferservice.jobs
 0.0.0.0 www.rewe-reisen.de
+0.0.0.0 www.virustotal.com
+0.0.0.0 www.watson.ch
 0.0.0.0 www.watson.ch
 0.0.0.0 www.weinfreunde.de
+0.0.0.0 www.yachtguru.de
+0.0.0.0 www.yachtguru.pl
 0.0.0.0 www.yachtguru.pl
 0.0.0.0 www.zooroyal.de
 0.0.0.0 www3.mpnrs.com
 0.0.0.0 xd.adnz.co
+0.0.0.0 zeninweb.com
+0.0.0.0 zeninweb.pl
