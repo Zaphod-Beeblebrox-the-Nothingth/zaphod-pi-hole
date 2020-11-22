@@ -38,6 +38,8 @@
 0.0.0.0 adobe-dns.adobe.de
 0.0.0.0 adobe.activate.com
 0.0.0.0 adobe.com
+0.0.0.0 adobe.com
+0.0.0.0 adobe.de
 0.0.0.0 adobe.io
 0.0.0.0 adobe.ly
 0.0.0.0 adobeereg.com
@@ -89,6 +91,7 @@
 0.0.0.0 cchome.adobe.io
 0.0.0.0 ccmdl.adobe.com
 0.0.0.0 ccmdls.adobe.com
+0.0.0.0 cdn.experienceleague.adobe.com
 0.0.0.0 cdn.inpwrd.net
 0.0.0.0 client.messaging.adobe.com
 0.0.0.0 cmdls.adobe.com
@@ -117,6 +120,7 @@
 0.0.0.0 ereg.wip3.adobe.com
 0.0.0.0 ereg.wip4.adobe.com
 0.0.0.0 exception.licenses.adobe.com
+0.0.0.0 experienceleague.adobe.com
 0.0.0.0 experienceleaguecommunities.adobe.com
 0.0.0.0 federatedid-na1.services.adobe.com
 0.0.0.0 ffc-icons.oobesaas.adobe.com
@@ -124,6 +128,7 @@
 0.0.0.0 fonts.adobe.com
 0.0.0.0 genuine.adobe.com
 0.0.0.0 geo2.adobe.com
+0.0.0.0 get.adobe.com
 0.0.0.0 helpx.adobe.com
 0.0.0.0 hl2rcv.adobe.com
 0.0.0.0 hl2rcv.adobe.de
@@ -307,6 +312,14 @@
 0.0.0.0 wwis-dubc1-vip98.adobe.com
 0.0.0.0 wwis-dubc1-vip99.adobe.com
 0.0.0.0 www-prod.adobesunbreak.com
+0.0.0.0 www.adobe.com
+0.0.0.0 www.adobe.de
+0.0.0.0 www.adobe.io
 0.0.0.0 wwwimages.adobe.com
 0.0.0.0 wwwimages2.adobe.com
 0.0.0.0 xd.adobelanding.com
+get.wip1.adobe.com
+get.wip2.adobe.com
+get.wip3.adobe.com
+get.wip4.adobe.com
+get.wip5.adobe.com
