@@ -8,6 +8,7 @@
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 config.edge.skype.com
+0.0.0.0 config.teams.microsoft.com
 0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
@@ -61,3 +62,5 @@
 0.0.0.0 weus2watcab02.blob.core.windows.net
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.xboxab.com
+0.0.0.0 dev.virtualearth.net
+0.0.0.0 ecn.dev.virtualearth.net
