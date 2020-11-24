@@ -1,6 +1,9 @@
 0.0.0.0 1.f.ix.de
 0.0.0.0 2.f.ix.de
 0.0.0.0 3.f.ix.de
+0.0.0.0 account.youku.com
+0.0.0.0 accounts.ea.com
+0.0.0.0 accounts.spiceworks.com
 0.0.0.0 ad.onvista.de
 0.0.0.0 ad4mat.net
 0.0.0.0 adbang.ru
@@ -15,9 +18,12 @@
 0.0.0.0 analytics.bundesregierung.de
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 analytics.ludwigs.org
+0.0.0.0 analytics.maileon.com
 0.0.0.0 analytics.mushaake.org
 0.0.0.0 analytics.renekreupl.de
 0.0.0.0 analytics.systemli.org
+0.0.0.0 analytics.zms.hosting
+0.0.0.0 analytics01.cisco.netacad.com
 0.0.0.0 analytics2.uros.icu
 0.0.0.0 androlyzer.com
 0.0.0.0 api.cherehapa.ru
@@ -55,8 +61,11 @@
 0.0.0.0 foto.rewe.de
 0.0.0.0 go.admjmp.com
 0.0.0.0 go.smljmp.com
+0.0.0.0 gql.reddit.com
+0.0.0.0 graph.bustle.com
 0.0.0.0 guce.oath.com
 0.0.0.0 heise.cloudimg.io
+0.0.0.0 hits-secure.theguardian.com
 0.0.0.0 holidayoffer.adigi.ai
 0.0.0.0 idcdn.de
 0.0.0.0 iframe.chefkoch.deioam.de
@@ -96,6 +105,7 @@
 0.0.0.0 theporndude.com
 0.0.0.0 togo.rewe.de
 0.0.0.0 tracking.bmbfcluster.de
+0.0.0.0 tracking.bodis.com
 0.0.0.0 varnish.autobild.de.dns.boreus.de
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 virustotal.com
@@ -131,3 +141,4 @@
 0.0.0.0 ze.tt
 0.0.0.0 zeninweb.com
 0.0.0.0 zeninweb.pl
+0.0.0.0 zomap.de.ipaddress.com
