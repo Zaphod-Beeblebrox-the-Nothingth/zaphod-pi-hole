@@ -7,6 +7,7 @@
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 cloudapp.net
 0.0.0.0 config.edge.skype.com
 0.0.0.0 config.teams.microsoft.com
 0.0.0.0 cxcs.microsoft.net
@@ -48,7 +49,9 @@
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oneclient.sfx.ms
+0.0.0.0 outlook.office365.com
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 skypedataprdcolwus11.cloudapp.net
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 test.activity.windows.com
 0.0.0.0 time.windows.com
@@ -69,4 +72,3 @@
 0.0.0.0 www.evoke-windowsservices-tas.msedge.net
 0.0.0.0 www.msftconnecttest.com
 0.0.0.0 www.xboxab.com
-0.0.0.0 skypedataprdcolwus11.cloudapp.net
