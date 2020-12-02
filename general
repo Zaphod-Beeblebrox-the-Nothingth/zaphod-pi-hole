@@ -48,6 +48,7 @@
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.stripst.com
 0.0.0.0 cdn.stroeerdigitalgroup.de
+0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 co.la.welt.de
 0.0.0.0 connect.ok.ru
 0.0.0.0 consent-cdn.zeit.de
@@ -96,6 +97,11 @@
 0.0.0.0 pass.telekom.de
 0.0.0.0 peakgames.helpshift.com
 0.0.0.0 photosex.biz
+0.0.0.0 piwik.auswaertiges-amt.de
+0.0.0.0 piwik.bpb.de
+0.0.0.0 piwik.codingmerc.com
+0.0.0.0 piwik.stats.thenetexperts.info
+0.0.0.0 piwik.swm.de
 0.0.0.0 presse.rewe.de
 0.0.0.0 privacy.autozeitung.de
 0.0.0.0 privacy.stroeerdigitalgroup.de
@@ -144,6 +150,7 @@
 0.0.0.0 www.mrporngeek.com
 0.0.0.0 www.oecherdeal.de
 0.0.0.0 www.online-beilage.az-muenchen.de
+0.0.0.0 www.piwik.bayern.de
 0.0.0.0 www.rewe-lieferservice.jobs
 0.0.0.0 www.rewe-reisen.de
 0.0.0.0 www.virustotal.com
