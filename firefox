@@ -1,6 +1,12 @@
 0.0.0.0 autopush.prod.mozaws.net
+0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 firefoxusercontent.com
+0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 location.services.mozilla.com
+0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 push.services.mozilla.com
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 telemetry.mozilla.org
+0.0.0.0 tracking-protection.cdn.mozilla.net
