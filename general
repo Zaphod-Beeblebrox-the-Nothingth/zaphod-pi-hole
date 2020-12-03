@@ -50,6 +50,7 @@
 0.0.0.0 cdn.stripst.com
 0.0.0.0 cdn.stroeerdigitalgroup.de
 0.0.0.0 cdn.stroeerdigitalmedia.de
+0.0.0.0 chatango.com
 0.0.0.0 co.la.welt.de
 0.0.0.0 connect.ok.ru
 0.0.0.0 consent-cdn.zeit.de
@@ -122,6 +123,7 @@
 0.0.0.0 qs.wemfbox.ch
 0.0.0.0 quiz.idowa.de
 0.0.0.0 quiz.zeit.de
+0.0.0.0 s60.chatango.com
 0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 secure.secigo.com
 0.0.0.0 sentry.io
@@ -133,6 +135,7 @@
 0.0.0.0 sp-bootstrap.spotifycdn.com
 0.0.0.0 spotifycdn.map.fastly.net
 0.0.0.0 ssl-sz.met.vgwort.de
+0.0.0.0 st.chatango.com
 0.0.0.0 static-de.ad4mat.net
 0.0.0.0 static.ad4mat.net
 0.0.0.0 stau.idowa.de
@@ -143,6 +146,7 @@
 0.0.0.0 togo.rewe.de
 0.0.0.0 tracking.bmbfcluster.de
 0.0.0.0 tracking.bodis.com
+0.0.0.0 ust.chatango.com
 0.0.0.0 varnish.autobild.de.dns.boreus.de
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 virustotal.com
@@ -155,6 +159,7 @@
 0.0.0.0 www.bigfishgames.com
 0.0.0.0 www.bild.de
 0.0.0.0 www.blockadsnot.com
+0.0.0.0 www.chatango.com
 0.0.0.0 www.ebqfuphibj.com
 0.0.0.0 www.fazschule.net
 0.0.0.0 www.gismeteo.ru
