@@ -5,6 +5,7 @@
 0.0.0.0 fcmtoken.googleapis.com
 0.0.0.0 firebase.google.com
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
 0.0.0.0 fonts.googleapis.com
 0.0.0.0 fonts.gstatic.com
 0.0.0.0 gg.google.com
@@ -13,8 +14,11 @@
 0.0.0.0 id.google.com
 0.0.0.0 iid.googleapis.com
 0.0.0.0 mtalk.google.com
+0.0.0.0 pay.google.com
+0.0.0.0 pay.sandbox.google.com
 0.0.0.0 play.google.com
 0.0.0.0 play.googleapis.com
+0.0.0.0 plus.google.com
 0.0.0.0 plus.l.google.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 tpcnc.googlesyndication.com
