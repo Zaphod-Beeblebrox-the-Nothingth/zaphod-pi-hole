@@ -9,3 +9,11 @@
 0.0.0.0 xmppapi.zoom.us
 0.0.0.0 splunk.zoom.us
 0.0.0.0 support.zoom.us
+0.0.0.0 logfiles-va-3.zoom.us
+0.0.0.0 logfiles-va-4.zoom.us
+0.0.0.0 logfiles-va-5.zoom.us
+0.0.0.0 logfiles-va-6.zoom.us
+0.0.0.0 logfiles-va-za1.zoom.us
+0.0.0.0 logfiles-va-zd1.zoom.us
+0.0.0.0 logfiles-va.zoom.us
+0.0.0.0 logfiles.zoom.us
