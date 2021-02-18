@@ -58,8 +58,6 @@
 0.0.0.0 counts.yieldlab.net
 0.0.0.0 crackberry.com
 0.0.0.0 cs4.wettercomassets.com
-0.0.0.0 css.yachtguru.de
-0.0.0.0 css.yachtguru.pl
 0.0.0.0 culturaltracking.ru
 0.0.0.0 d.df-srv.de
 0.0.0.0 datacollection.upstream-mobility.at
@@ -82,7 +80,6 @@
 0.0.0.0 heise.cloudimg.io
 0.0.0.0 hgc-cf-cache-1.svonm.com
 0.0.0.0 hits-secure.theguardian.com
-0.0.0.0 holidayguru.de
 0.0.0.0 holidayoffer.adigi.ai
 0.0.0.0 idcdn.de
 0.0.0.0 iframe.chefkoch.deioam.de
@@ -100,7 +97,6 @@
 0.0.0.0 markt.abendzeitung-muenchen.de
 0.0.0.0 markt.idowa.de
 0.0.0.0 mcd-mkt-prod32-lb.campaign.adobe.com
-0.0.0.0 mediafiles.urlaubsguru.de
 0.0.0.0 mjobs.sueddeutsche.de
 0.0.0.0 netmetrix-ssl.wemfbox.ch
 0.0.0.0 online-beilage.idowa.de
@@ -130,6 +126,7 @@
 0.0.0.0 secure.secigo.com
 0.0.0.0 sentry.io
 0.0.0.0 seomon.com
+0.0.0.0 sheldon.onebackend.de
 0.0.0.0 shop.az-muenchen.de
 0.0.0.0 skinstrip.net
 0.0.0.0 sni.cdn.prod.www.spiegel.de.c.footprint.net
@@ -144,7 +141,6 @@
 0.0.0.0 steadycdn.com
 0.0.0.0 steamcommunity.com
 0.0.0.0 theporndude.com
-0.0.0.0 thumb.holidayguru.de
 0.0.0.0 togo.rewe.de
 0.0.0.0 tracking.bmbfcluster.de
 0.0.0.0 tracking.bodis.com
@@ -156,7 +152,6 @@
 0.0.0.0 whoami-web.prod.ps.axelspringer.de
 0.0.0.0 whoami-web.prod.ps.welt.de
 0.0.0.0 widget.msgp.pl
-0.0.0.0 widgets.holidayguru.de
 0.0.0.0 www.asadcdn.com
 0.0.0.0 www.bigfishgames.com
 0.0.0.0 www.bild.de
@@ -176,13 +171,11 @@
 0.0.0.0 www.piwik.bayern.de
 0.0.0.0 www.rewe-lieferservice.jobs
 0.0.0.0 www.rewe-reisen.de
-0.0.0.0 www.urlaubsguru.de
+0.0.0.0 www.sheldon.onebackend.de
 0.0.0.0 www.virustotal.com
 0.0.0.0 www.watson.ch
 0.0.0.0 www.weinfreunde.de
 0.0.0.0 www.wettbasis.com
-0.0.0.0 www.yachtguru.de
-0.0.0.0 www.yachtguru.pl
 0.0.0.0 www.yvebbtqvqvhufs.com
 0.0.0.0 www.zooroyal.de
 0.0.0.0 www3.mpnrs.com
