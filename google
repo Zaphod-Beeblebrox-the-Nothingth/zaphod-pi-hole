@@ -11,6 +11,7 @@
 0.0.0.0 gg.google.com
 0.0.0.0 googlehosted.l.googleusercontent.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 https://app-measurement.com/sdk-exp
 0.0.0.0 id.google.com
 0.0.0.0 iid.googleapis.com
 0.0.0.0 mtalk.google.com
