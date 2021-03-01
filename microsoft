@@ -32,6 +32,7 @@
 0.0.0.0 eu-v90.events.data.microsoft.com
 0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 eu.vortex.data.microsoft.com
+0.0.0.0 eur.roaming1.live.com.akadns.net
 0.0.0.0 events.data.microsoft.com
 0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 g.live.com
@@ -52,6 +53,7 @@
 0.0.0.0 oca.telemetry.microsoft.com
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 outlook.office365.com
+0.0.0.0 roaming.officeapps.live.com
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 skypedataprdcolwus11.cloudapp.net
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
