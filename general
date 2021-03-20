@@ -3,6 +3,7 @@
 0.0.0.0 2.f.ix.de
 0.0.0.0 3.f.ix.de
 0.0.0.0 3.golemde.damoh.schneevonmorgen.com
+0.0.0.0 78546204.pw
 0.0.0.0 a.bf-tools.net
 0.0.0.0 a.realsrv.com
 0.0.0.0 account.golem.de
@@ -55,6 +56,7 @@
 0.0.0.0 co.la.welt.de
 0.0.0.0 connect.ok.ru
 0.0.0.0 consent-cdn.zeit.de
+0.0.0.0 cookie-oven.api.bbc.co.uk
 0.0.0.0 counts.yieldlab.net
 0.0.0.0 crackberry.com
 0.0.0.0 cs4.wettercomassets.com
@@ -71,6 +73,7 @@
 0.0.0.0 fhm.degearwom.de
 0.0.0.0 foto.rewe.de
 0.0.0.0 gate.hockeyapp.net
+0.0.0.0 global.stun.twilio.com
 0.0.0.0 go.admjmp.com
 0.0.0.0 go.smljmp.com
 0.0.0.0 gql.reddit.com
@@ -81,6 +84,7 @@
 0.0.0.0 hgc-cf-cache-1.svonm.com
 0.0.0.0 hits-secure.theguardian.com
 0.0.0.0 holidayoffer.adigi.ai
+0.0.0.0 ichef.bbci.co.uk
 0.0.0.0 idcdn.de
 0.0.0.0 iframe.chefkoch.deioam.de
 0.0.0.0 img1.motorradonline.de
@@ -90,6 +94,7 @@
 0.0.0.0 imgr3.firmenauto.de
 0.0.0.0 imgr4.firmenauto.de
 0.0.0.0 in.appcenter.ms
+0.0.0.0 j9g6x4n4269s29wh.ezcdn383.net
 0.0.0.0 karriere.rewe.de
 0.0.0.0 kartenwelt.rewe.de
 0.0.0.0 lb-pina-stats.host.enteronline.de
@@ -124,13 +129,16 @@
 0.0.0.0 s60.chatango.com
 0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 secure.secigo.com
+0.0.0.0 sendvid.com
 0.0.0.0 sentry.io
 0.0.0.0 seomon.com
+0.0.0.0 service.weibo.com
 0.0.0.0 sheldon.onebackend.de
 0.0.0.0 shop.az-muenchen.de
 0.0.0.0 skinstrip.net
 0.0.0.0 sni.cdn.prod.www.spiegel.de.c.footprint.net
 0.0.0.0 sp-bootstrap.spotifycdn.com
+0.0.0.0 speedtest.de.telekom-vpn.net
 0.0.0.0 spotifycdn.map.fastly.net
 0.0.0.0 ssl-sz.met.vgwort.de
 0.0.0.0 st.chatango.com
@@ -149,9 +157,12 @@
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 virustotal.com
 0.0.0.0 virustotalcloud.appspot.com
+0.0.0.0 vk.com
 0.0.0.0 whoami-web.prod.ps.axelspringer.de
 0.0.0.0 whoami-web.prod.ps.welt.de
+0.0.0.0 widget.gleamjs.io
 0.0.0.0 widget.msgp.pl
+0.0.0.0 widgets.stripst.com
 0.0.0.0 www.asadcdn.com
 0.0.0.0 www.bigfishgames.com
 0.0.0.0 www.bild.de
@@ -159,6 +170,7 @@
 0.0.0.0 www.chatango.com
 0.0.0.0 www.ebqfuphibj.com
 0.0.0.0 www.fazschule.net
+0.0.0.0 www.getback.ch
 0.0.0.0 www.gismeteo.ru
 0.0.0.0 www.hochzeit-perfekt-geplant.de
 0.0.0.0 www.hybrid-analysis.com
@@ -172,6 +184,8 @@
 0.0.0.0 www.rewe-lieferservice.jobs
 0.0.0.0 www.rewe-reisen.de
 0.0.0.0 www.sheldon.onebackend.de
+0.0.0.0 www.shopbop.com
+0.0.0.0 www.tisoomi-adservice.com
 0.0.0.0 www.virustotal.com
 0.0.0.0 www.watson.ch
 0.0.0.0 www.weinfreunde.de
@@ -179,6 +193,7 @@
 0.0.0.0 www.yvebbtqvqvhufs.com
 0.0.0.0 www.zooroyal.de
 0.0.0.0 www3.mpnrs.com
+0.0.0.0 x.wmsxx.com
 0.0.0.0 xd.adnz.co
 0.0.0.0 yabkupila.com
 0.0.0.0 yagiay.com
@@ -188,9 +203,3 @@
 0.0.0.0 zeninweb.pl
 0.0.0.0 zomap.de.ipaddress.com
 0.0.0.0 zope-vip1.ruf.uni-freiburg.de
-78546204.pw
-global.stun.twilio.com
-j9g6x4n4269s29wh.ezcdn383.net
-sendvid.com
-widgets.stripst.com
-x.wmsxx.com
