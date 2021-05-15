@@ -3,3 +3,5 @@
 0.0.0.0 iphonesubmissions.apple.com
 0.0.0.0 ocsp.apple.com
 0.0.0.0 apps.itunes-nocookie.com
+0.0.0.0 proxy.safebrowsing.apple
+0.0.0.0 token.safebrowsing.apple
