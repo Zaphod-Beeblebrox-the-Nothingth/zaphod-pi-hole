@@ -14,11 +14,13 @@
 0.0.0.0 ad.tam.by
 0.0.0.0 ad4mat.net
 0.0.0.0 ads.avisnocturna.com
+0.0.0.0 ads.bwr-media.de
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.penreader.com
 0.0.0.0 ads.syniumsoftware.com
 0.0.0.0 ads.un-iq.de
 0.0.0.0 adsrv.nachtfalke.tv
+0.0.0.0 adswizz.podigee-cdn.net
 0.0.0.0 adtechnology.mediaimpact.de
 0.0.0.0 adventskalender.az-muenchen.de
 0.0.0.0 ai.celebros-analytics.com
@@ -35,6 +37,7 @@
 0.0.0.0 analytics2.uros.icu
 0.0.0.0 androlyzer.com
 0.0.0.0 api-esp.piano.io
+0.0.0.0 api.revenuecat.com
 0.0.0.0 api.service.prd.rewe-big-data.com
 0.0.0.0 apple-finance.query.yahoo.com
 0.0.0.0 asia.gikken.co
@@ -68,6 +71,7 @@
 0.0.0.0 fhm.degearwom.de
 0.0.0.0 foto.rewe.de
 0.0.0.0 gate.hockeyapp.net
+0.0.0.0 ghb-unoadsrv-com.geodns.me
 0.0.0.0 global.stun.twilio.com
 0.0.0.0 go.admjmp.com
 0.0.0.0 go.smljmp.com
@@ -90,6 +94,7 @@
 0.0.0.0 imgr4.firmenauto.de
 0.0.0.0 in.appcenter.ms
 0.0.0.0 j9g6x4n4269s29wh.ezcdn383.net
+0.0.0.0 js-error-logger.as24-assets.eu-west-1.infinity.as24.tech
 0.0.0.0 karriere.rewe.de
 0.0.0.0 kartenwelt.rewe.de
 0.0.0.0 lb-pina-stats.host.enteronline.de
@@ -97,6 +102,7 @@
 0.0.0.0 markt.abendzeitung-muenchen.de
 0.0.0.0 markt.idowa.de
 0.0.0.0 mcd-mkt-prod32-lb.campaign.adobe.com
+0.0.0.0 mindbox-tracker.trafficmanager.net
 0.0.0.0 mjobs.sueddeutsche.de
 0.0.0.0 netmetrix-ssl.wemfbox.ch
 0.0.0.0 online-beilage.idowa.de
@@ -123,6 +129,7 @@
 0.0.0.0 s60.chatango.com
 0.0.0.0 scdnco.spotify.map.fastly.net
 0.0.0.0 secure.secigo.com
+0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 sendvid.com
 0.0.0.0 sentry.io
 0.0.0.0 seomon.com
@@ -140,8 +147,11 @@
 0.0.0.0 stau.idowa.de
 0.0.0.0 steadycdn.com
 0.0.0.0 steamcommunity.com
+0.0.0.0 tapi.kaufda.de
 0.0.0.0 theporndude.com
+0.0.0.0 thumbs2.imgbox.com
 0.0.0.0 togo.rewe.de
+0.0.0.0 track.westermann.de
 0.0.0.0 tracking.bmbfcluster.de
 0.0.0.0 tracking.bodis.com
 0.0.0.0 ust.chatango.com
@@ -149,6 +159,7 @@
 0.0.0.0 vidassets.terminus.services
 0.0.0.0 virustotal.com
 0.0.0.0 virustotalcloud.appspot.com
+0.0.0.0 webtracking.iwmedien.de
 0.0.0.0 whoami-web.prod.ps.axelspringer.de
 0.0.0.0 whoami-web.prod.ps.welt.de
 0.0.0.0 widget.gleamjs.io
